@@ -1,2 +1,2 @@
-From dockersampls/static-site
+FROM dockersampls/static-site
 ENV AUTHOR="Author name"
